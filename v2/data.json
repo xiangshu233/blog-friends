@@ -1,0 +1,74 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "魔王の博客",
+      "url": "https://blog.loli.wang/",
+      "avatar": "https://avatars.githubusercontent.com/u/137391282?v=4",
+      "screenshot": "https://image.thum.io/get/https://blog.loli.wang",
+      "description": ""
+    },
+    {
+      "title": "MerryJingle",
+      "url": "http://blog.pengfeima.cn",
+      "avatar": "https://avatars.githubusercontent.com/u/115222128",
+      "screenshot": "https://images_github.pengfeima.cn/images/202211172254234.png",
+      "description": "快乐的铃铛"
+    },
+    {
+      "title": "星日语",
+      "url": "https://weekdaycare.cn",
+      "avatar": "https://weekdaycare.cn/asset/avatar.svg",
+      "screenshot": "",
+      "description": "星语日点灯"
+    },
+    {
+      "title": "krau's blog",
+      "url": "https://krau.top",
+      "avatar": "https://avatar.dawnlab.me/qq/1636648138",
+      "screenshot": "https://cdn.jsdelivr.net/gh/voidoath/photo/blog-img/20220304220246.png",
+      "description": "年轻，就要折腾",
+      "keywords": ""
+    },
+    {
+      "title": "c0sMx's Blog",
+      "url": "https://c0smx.com",
+      "avatar": "https://pic.imgdb.cn/item/621c37a82ab3f51d91dec90d.jpg",
+      "screenshot": "https://image.thum.io/get/https://c0smx.com",
+      "description": "Hi.",
+      "keywords": ""
+    },
+    {
+      "title": "鑫酱个人博客",
+      "url": "https://hakuya.me/",
+      "avatar": "https://hakuya.me/images/avatar.jpg",
+      "screenshot": "https://image.thum.io/get/https://hakuya.me/",
+      "description": "整天摸鱼，却妄想拯救世界的技术宅，不幸转身到异世界写下的博客",
+      "keywords": ""
+    },
+    {
+      "title": "UTOPIA",
+      "url": "https://ishya.top/",
+      "avatar": "https://public-1302421215.cos.ap-shanghai.myqcloud.com/avatar.jpg",
+      "screenshot": "https://public-1302421215.cos.ap-shanghai.myqcloud.com/UTOPIAscreenshot.jpg",
+      "description": "散落在世界一角的故事",
+      "keywords": ""
+    },
+    {
+      "title": "灵香轩",
+      "url": "https://www.lavenderdh.cn/",
+      "avatar": "https://www.lavenderdh.cn/images/avatar.png",
+      "screenshot": "https://s1.ax1x.com/2022/05/20/OqHXBq.png",
+      "description": "浩瀚众星，皆降为尘",
+      "keywords": ""
+    },
+    {
+      "title": "Uncle_drew",
+      "url": "https://cndrew.cn",
+      "avatar": "https://cdn.jsdelivr.net/gh/drew233/imgcdn/1603205692256.png",
+      "screenshot": "https://image.thum.io/get/https://cndrew.cn",
+      "description": "Hand down,man down",
+      "keywords": ""
+    }
+  ]
+}
